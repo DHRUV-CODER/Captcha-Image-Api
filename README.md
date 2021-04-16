@@ -1,6 +1,6 @@
 
 > Now You Can Use This  **Captcha Api**  in your Application , Specially Discord Bots !! 
-> 
+
 > :white_circle:  *Serves* **24/7** :arrows_counterclockwise: 
 >
 > :white_circle: *Constant Updates* :up: 
