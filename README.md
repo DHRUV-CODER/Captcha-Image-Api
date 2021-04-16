@@ -1,6 +1,3 @@
-<img alt="Discord" src="https://img.shields.io/discord/790595270438027295?style=flat-square">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DHRUV-CODER/Captcha-Image-Api?style=flat-square">
-<img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/requests">
 
 > Now You Can Use This  **Captcha Api**  in your Application , Specially Discord Bots !! 
 > 
