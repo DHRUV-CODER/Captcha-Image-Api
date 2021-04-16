@@ -12,15 +12,14 @@
 > **Response**
 > ```json
 > {
->     "answer_to_captcha":"kQacwH",
->     "asked_query":"kQacwH",
->     "credits":"\u00a9 Dhruv",
->     "font":"arial.ttf",
->     "img_url":"https://captcha-image-api.dhruvnation1.repl.co/captchame/aYZgreUcebbB8DucjACAeHcz5LR24M6TmKg8d0eNE5fj3xo7d6yD9Wn8DAb"
+>   "answer_to_captcha": "yg4UA2",
+>   "asked_query": "yg4UA2",
+>   "credits": "© Dhruv",
+>   "font": "arial.ttf",
+>   "img_url": "https://Captcha-Image-Api.dhruvnation1.repl.co/captchame/FkciuPXxCnJ5d9Dyg4UA2Dr6d4e5cPWla9A2eABEp0ZdSYs4bmFIVab5iCg"
 > }
 > ```
-
-> <img width="211" alt="c img" src="https://user-images.githubusercontent.com/60794694/115061057-51b42700-9ef1-11eb-964c-eea09d8b0fa5.PNG">
+> <img width="214" alt="captcha img" src="https://user-images.githubusercontent.com/60794694/115061592-09493900-9ef2-11eb-899b-5b1ce3f3b310.PNG">
 >
 
 > *Made By* **Dhruv** :copyright:
