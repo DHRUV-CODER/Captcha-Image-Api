@@ -34,7 +34,7 @@ def give_the_c():
         "answer_to_captcha": result_random_Stuff,
         "img_url":
         f"https://Captcha-Image-Api.dhruvnation1.repl.co/captchame/{randm1}{result_random_Stuff}{randm2}",
-        "font": "arial.ttf",
+        "font": "./assets/Font/arial.ttf",
         "credits": "© Dhruv"
     }
     return jsonify(result)
@@ -42,14 +42,14 @@ def give_the_c():
 
 @app.route(f'/captchame/{randm1}<string:a>{randm2}')
 def imagemal(a):
-    image = Image.open('captchimage.jpg')
+    image = Image.open('./assets/Images/captchimage.jpg')
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype("arial.ttf", 35)
+    font = ImageFont.truetype("./assets/Font/arial.ttf", 35)
     points = 86, 29
     text = a
     draw.text(points, text, "black", font=font)
-    image.save('resulted_captcha.jpg')
-    image_file = 'resulted_captcha.jpg'
+    image.save('./assets/Images/resulted_captcha.jpg')
+    image_file = './assets/Images/resulted_captcha.jpg'
 
     try:
         return send_file(image_file)
