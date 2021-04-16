@@ -1,3 +1,5 @@
+<center><img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/flask?style=flat-square"></center>
+
 > Now You Can Use This  **Captcha Api**  in your Application , Specially Discord Bots !! 
 > 
 > :white_circle:  *Serves* **24/7** :arrows_counterclockwise: 
