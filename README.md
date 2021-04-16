@@ -1,5 +1,4 @@
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/flask?style=flat-square">
-<img alt="NodePing uptime" src="https://img.shields.io/nodeping/uptime/https://captcha-image-api.dhruvnation1.repl.co/gimme/some/captcha?style=flat-square">
+<img alt="Discord" src="https://img.shields.io/discord/790595270438027295?style=flat-square">
 
 > Now You Can Use This  **Captcha Api**  in your Application , Specially Discord Bots !! 
 > 
