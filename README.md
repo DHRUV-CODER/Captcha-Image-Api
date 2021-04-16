@@ -6,8 +6,7 @@
 
 
 > `Link To API` - **https://captcha-image-api.dhruvnation1.repl.co/gimme/some/captcha**
-> 
-> `Source Code `- **https://github.com/DHRUV-CODER/Captcha-Image-Api**
+
 
 > **Response**
 > ```json
